@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "746083877089",
+    "project_id": "language-translator-ae277",
+    "storage_bucket": "language-translator-ae277.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746083877089:android:f2f92b5492a65f254fb7a0",
+        "android_client_info": {
+          "package_name": "com.matrix_maeny.languagetranslator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746083877089-jck5rqkc5v0uogfvp5j6p7dnnadifmvl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNzuqmbUzgTowUTPR2y9nzvTJHGQaH780"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746083877089-jck5rqkc5v0uogfvp5j6p7dnnadifmvl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
